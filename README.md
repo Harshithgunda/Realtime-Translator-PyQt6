@@ -44,7 +44,7 @@ pip install PyQt6 pyttsx3 SpeechRecognition deep-translator pyaudio
 python translator_app.py
 make sure your microphone works and you're connected to the internet.
 
-# Project Structure :
+# Project Structure : 
 * AI-Translator-App/
 * ├── translator_app.py
 * ├── bg.jpg
